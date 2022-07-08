@@ -1,0 +1,9 @@
+a=37
+b=5
+print(a+b)
+print(a-b)
+print(a*b)
+print("%0.4f"%(a/b))
+print(a//b)
+print(a**b)
+print(a%b)
